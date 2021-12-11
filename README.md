@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdllaibrahim
-- 👀 I’m interested in iot, machine learning ,c++ , python, computer vision.
+- 👀 I’m interested in iot, machine learning ,c++ , python and computer vision.
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me abdllaibrahim22@gmail.com
 
